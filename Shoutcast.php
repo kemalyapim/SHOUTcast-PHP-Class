@@ -277,3 +277,5 @@ class Shoutcast
       return $ret;
    }
 }
+
+?>
